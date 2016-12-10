@@ -1,2 +1,2 @@
-# hackathon2016
-Timber fo HRs
+# Hackathon2016
+Timber for HRs
