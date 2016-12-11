@@ -1,0 +1,961 @@
+[
+ {
+  "JavaScript": 1.8379,
+  "Ruby": 4.5459
+ },
+ 24,
+ 49,
+ "https://github.com/tosch"
+][
+ {
+  "Go": 1.8379,
+  "Visual Basic": 1.8379,
+  "CSS": 3.2242,
+  "Ruby": 6.0275,
+  "JavaScript": 4.4769,
+  "Python": 1.8379,
+  "Lua": 1.8379,
+  "HTML": 1.8379
+ },
+ 337,
+ 586,
+ "https://github.com/jmettraux"
+][
+ {
+  "Go": 2.531,
+  "Java": 1.8379,
+  "HTML": 1.8379,
+  "CoffeeScript": 2.531,
+  "Clojure": 2.531,
+  "JavaScript": 2.9365,
+  "PHP": 1.8379,
+  "Ruby": 5.7697,
+  "CSS": 2.531
+ },
+ 131,
+ 221,
+ "https://github.com/kennethkalmer"
+][
+ {
+  "C#": 1.8379,
+  "Go": 4.0351,
+  "ASP": 1.8379,
+  "Python": 1.8379,
+  "CSS": 1.8379,
+  "Java": 1.8379,
+  "CoffeeScript": 1.8379,
+  "JavaScript": 2.531,
+  "PHP": 3.6296,
+  "Ruby": 5.6445,
+  "HTML": 1.8379
+ },
+ 227,
+ 64,
+ "https://github.com/weppos"
+][
+ {
+  "JavaScript": 2.531,
+  "Python": 2.531,
+  "Ruby": 2.531
+ },
+ 4,
+ 24,
+ "https://github.com/anb"
+][
+ {
+  "Go": 1.8379,
+  "C++": 1.8379,
+  "JavaScript": 1.8379,
+  "CSS": 1.8379,
+  "Ruby": 5.1701
+ },
+ 81,
+ 336,
+ "https://github.com/hasimo"
+][
+ {
+  "JavaScript": 1.8379,
+  "Python": 1.8379,
+  "Ruby": 4.1405
+ },
+ 7,
+ 549,
+ "https://github.com/mschiller"
+][
+ {
+  "C#": 4.3228,
+  "Go": 1.8379,
+  "PowerShell": 1.8379,
+  "HTML": 1.8379,
+  "Java": 2.531,
+  "Clojure": 3.7838,
+  "JavaScript": 3.9173,
+  "Python": 1.8379,
+  "Ruby": 5.1701
+ },
+ 41,
+ 142,
+ "https://github.com/ben-biddington"
+][
+ {
+  "Go": 1.8379,
+  "C++": 3.6296,
+  "HTML": 3.9173,
+  "Java": 1.8379,
+  "CoffeeScript": 3.2242,
+  "JavaScript": 6.433,
+  "Puppet": 2.531,
+  "Ruby": 5.0568,
+  "CSS": 4.2358
+ },
+ 805,
+ 3168,
+ "https://github.com/mcollina"
+][
+ {
+  "Java": 4.3228,
+  "CSS": 3.2242,
+  "Objective-C": 4.3228,
+  "Python": 3.4473,
+  "JavaScript": 4.8336,
+  "Ruby": 5.8452
+ },
+ 4,
+ 255,
+ "https://github.com/erwin16"
+][
+ {
+  "C++": 4.2358,
+  "Java": 2.9365,
+  "Perl": 2.531,
+  "JavaScript": 1.8379,
+  "Python": 4.4028,
+  "Lua": 2.531,
+  "Ruby": 4.6105
+ },
+ 19,
+ 28,
+ "https://github.com/lbt"
+][
+ {
+  "Java": 3.6296,
+  "JavaScript": 1.8379,
+  "CSS": 1.8379,
+  "Ruby": 3.9173
+ },
+ 28,
+ 105,
+ "https://github.com/nandosola"
+][
+ {
+  "C++": 1.8379,
+  "Python": 3.9173,
+  "HTML": 1.8379,
+  "Java": 1.8379,
+  "Objective-C": 1.8379,
+  "PHP": 1.8379,
+  "JavaScript": 3.4473,
+  "Ruby": 4.4028
+ },
+ 72,
+ 114,
+ "https://github.com/nanounanue"
+][
+ {
+  "C++": 1.8379,
+  "Python": 1.8379,
+  "Ruby": 4.0351
+ },
+ 0,
+ 6,
+ "https://github.com/efficientcloud"
+][
+ {
+  "JavaScript": 2.531,
+  "Ruby": 4.4769,
+  "CSS": 1.8379,
+  "PHP": 1.8379
+ },
+ 2,
+ 112,
+ "https://github.com/jbutkowski"
+][
+ {
+  "JavaScript": 2.531,
+  "Ruby": 2.531,
+  "CSS": 2.531,
+  "HTML": 1.8379
+ },
+ 7,
+ 242,
+ "https://github.com/miklophone"
+][
+ {
+  "Objective-C": 3.2242,
+  "Java": 1.8379,
+  "JavaScript": 3.2242,
+  "CSS": 1.8379,
+  "Ruby": 5.0568
+ },
+ 0,
+ 5,
+ "https://github.com/developertown"
+][
+ {
+  "Go": 2.531,
+  "C++": 1.8379,
+  "CSS": 1.8379,
+  "Java": 1.8379,
+  "JavaScript": 3.7838,
+  "Python": 2.9365,
+  "Ruby": 4.6105
+ },
+ 55,
+ 1106,
+ "https://github.com/rupakg"
+][
+ {},
+ 1,
+ 90,
+ "https://github.com/metasync"
+][
+ {
+  "Java": 3.2242,
+  "JavaScript": 1.8379,
+  "Ruby": 1.8379
+ },
+ 2,
+ 10,
+ "https://github.com/jrluis"
+][
+ {
+  "C#": 2.531,
+  "C++": 1.8379,
+  "JavaScript": 1.8379,
+  "Python": 1.8379,
+  "Ruby": 2.9365
+ },
+ 0,
+ 51,
+ "https://github.com/eivan"
+][
+ {
+  "C++": 1.8379,
+  "JavaScript": 1.8379,
+  "Python": 4.0351,
+  "HTML": 2.531
+ },
+ 1,
+ 4,
+ "https://github.com/matplotlib"
+][
+ {
+  "Go": 1.8379,
+  "C++": 1.8379,
+  "Python": 3.6296,
+  "HTML": 1.8379,
+  "Ruby": 1.8379
+ },
+ 31,
+ 5,
+ "https://github.com/jswhit"
+][
+ {
+  "C++": 2.531,
+  "Puppet": 1.8379,
+  "Python": 1.8379,
+  "Java": 1.8379,
+  "CoffeeScript": 1.8379,
+  "JavaScript": 3.6296,
+  "PHP": 1.8379,
+  "Lua": 1.8379,
+  "Objective-C": 3.7838,
+  "Swift": 1.8379,
+  "Ruby": 4.9734
+ },
+ 60,
+ 600,
+ "https://github.com/pigoz"
+][
+ {
+  "Go": 1.8379,
+  "Java": 1.8379,
+  "JavaScript": 3.2242,
+  "CSS": 2.531,
+  "Ruby": 5.5268
+ },
+ 1640,
+ 14,
+ "https://github.com/jimweirich"
+][
+ {
+  "C++": 2.9365,
+  "Clojure": 1.8379,
+  "JavaScript": 3.9173,
+  "Python": 1.8379,
+  "Objective-C": 4.0351,
+  "Ruby": 4.0351
+ },
+ 90,
+ 61,
+ "https://github.com/funkaster"
+][
+ {
+  "C++": 2.531,
+  "JavaScript": 2.531,
+  "Python": 1.8379,
+  "Java": 1.8379
+ },
+ 21,
+ 15,
+ "https://github.com/moadib"
+][
+ {
+  "C++": 3.7838,
+  "Java": 1.8379,
+  "Swift": 1.8379,
+  "Perl": 1.8379,
+  "JavaScript": 3.9173,
+  "Python": 3.2242,
+  "Objective-C": 2.9365
+ },
+ 290,
+ 5,
+ "https://github.com/minggo"
+][
+ {
+  "C#": 1.8379,
+  "C++": 3.6296,
+  "Perl": 1.8379,
+  "JavaScript": 3.2242,
+  "Python": 2.9365,
+  "Objective-C": 3.7838
+ },
+ 721,
+ 5,
+ "https://github.com/cocos2d"
+][
+ {
+  "C++": 5.4488,
+  "Python": 4.1405,
+  "CSS": 2.531,
+  "Java": 4.4028,
+  "Perl": 2.531,
+  "JavaScript": 4.6105,
+  "PHP": 2.531,
+  "Lua": 2.9365,
+  "Objective-C": 4.9289,
+  "Ruby": 1.8379
+ },
+ 165,
+ 83,
+ "https://github.com/dumganhar"
+][
+ {
+  "C++": 3.9173,
+  "Python": 3.4473,
+  "CSS": 1.8379,
+  "PHP": 3.4473,
+  "Objective-C": 1.8379,
+  "Perl": 1.8379,
+  "Lua": 4.1405,
+  "JavaScript": 3.6296
+ },
+ 457,
+ 111,
+ "https://github.com/dualface"
+][
+ {
+  "C++": 1.8379,
+  "JavaScript": 1.8379
+ },
+ 5,
+ 4,
+ "https://github.com/dducharme"
+][
+ {
+  "C#": 1.8379,
+  "C++": 2.9365,
+  "Java": 1.8379
+ },
+ 2,
+ 5,
+ "https://github.com/edbartley"
+][
+ {
+  "C++": 4.2358,
+  "JavaScript": 1.8379,
+  "XSLT": 1.8379,
+  "HTML": 1.8379,
+  "Ruby": 1.8379
+ },
+ 11,
+ 65,
+ "https://github.com/Klaim"
+][
+ {
+  "JavaScript": 1.8379
+ },
+ 1,
+ 4,
+ "https://github.com/tyrsha"
+][
+ {
+  "Go": 1.8379,
+  "Python": 1.8379
+ },
+ 1,
+ 12,
+ "https://github.com/ehooi"
+][
+ {
+  "Go": 3.6296,
+  "Java": 1.8379,
+  "JavaScript": 1.8379
+ },
+ 1,
+ 87,
+ "https://github.com/irwinb"
+][
+ {},
+ 0,
+ 0,
+ "https://github.com/graphly"
+][
+ {
+  "C++": 1.8379,
+  "Objective-C": 2.531,
+  "Java": 2.531
+ },
+ 1,
+ 2,
+ "https://github.com/pixonic"
+][
+ {
+  "C#": 1.8379,
+  "C++": 4.0351,
+  "Java": 2.531,
+  "JavaScript": 2.9365,
+  "Python": 1.8379,
+  "Objective-C": 2.531
+ },
+ 384,
+ 12,
+ "https://github.com/walzer"
+][
+ {
+  "C++": 3.4473,
+  "Java": 1.8379,
+  "JavaScript": 3.6296,
+  "Python": 3.2242,
+  "Objective-C": 3.4473,
+  "Ruby": 1.8379
+ },
+ 24,
+ 23,
+ "https://github.com/folecr"
+][
+ {
+  "C#": 1.8379,
+  "C++": 2.531
+ },
+ 4,
+ 59,
+ "https://github.com/Drakonite"
+][
+ {
+  "TypeScript": 2.531,
+  "Java": 2.9365,
+  "CoffeeScript": 2.531,
+  "JavaScript": 5.0159,
+  "Python": 4.0351,
+  "Ruby": 5.8632,
+  "Go": 1.8379,
+  "C++": 3.6296,
+  "CSS": 2.9365,
+  "PHP": 2.531,
+  "Clojure": 1.8379,
+  "Objective-C": 5.3932,
+  "Lua": 1.8379,
+  "Swift": 3.2242
+ },
+ 99,
+ 1837,
+ "https://github.com/l4u"
+][
+ {
+  "Python": 2.531
+ },
+ 9,
+ 6,
+ "https://github.com/vijaythakkar"
+][
+ {
+  "C#": 3.9173,
+  "C++": 4.9734,
+  "Java": 3.4473,
+  "Go": 1.8379,
+  "JavaScript": 2.9365,
+  "Objective-C": 2.9365,
+  "Ruby": 1.8379
+ },
+ 4,
+ 176,
+ "https://github.com/corefan"
+][
+ {
+  "C++": 1.8379,
+  "Objective-C": 1.8379
+ },
+ 1,
+ 135,
+ "https://github.com/czhixin"
+][
+ {
+  "C#": 3.7838,
+  "C++": 4.1405,
+  "Java": 3.6296,
+  "JavaScript": 4.6105,
+  "PHP": 1.8379,
+  "Objective-C": 4.1405,
+  "Ruby": 1.8379
+ },
+ 4,
+ 125,
+ "https://github.com/jandujar"
+][
+ {
+  "CoffeeScript": 1.8379,
+  "JavaScript": 2.531,
+  "Python": 2.531,
+  "Ruby": 3.9173
+ },
+ 5,
+ 401,
+ "https://github.com/tsanders"
+][
+ {
+  "C#": 3.7838,
+  "C++": 3.4473,
+  "Java": 1.8379,
+  "JavaScript": 4.6711,
+  "Python": 2.531,
+  "Objective-C": 4.4028
+ },
+ 29,
+ 359,
+ "https://github.com/robterrell"
+][
+ {
+  "C++": 2.9365,
+  "JavaScript": 5.096,
+  "Lua": 3.4473,
+  "Objective-C": 2.531,
+  "PHP": 1.8379
+ },
+ 20,
+ 533,
+ "https://github.com/skyblue"
+][
+ {
+  "Ruby": 2.9365
+ },
+ 1,
+ 3,
+ "https://github.com/sloanwu"
+][
+ {
+  "JavaScript": 2.531,
+  "CSS": 1.8379
+ },
+ 1,
+ 36,
+ "https://github.com/Nicholas-Shen"
+][
+ {
+  "C#": 1.8379,
+  "C++": 3.4473,
+  "Swift": 1.8379,
+  "Java": 1.8379,
+  "JavaScript": 4.0351,
+  "Objective-C": 4.7282
+ },
+ 24,
+ 1234,
+ "https://github.com/simdm"
+][
+ {
+  "Go": 1.8379,
+  "JavaScript": 1.8379
+ },
+ 815,
+ 31105,
+ "https://github.com/hcilab"
+][
+ {
+  "Java": 1.8379,
+  "Objective-C": 2.531
+ },
+ 5,
+ 17,
+ "https://github.com/jstahlba"
+][
+ {
+  "JavaScript": 2.9365,
+  "Objective-C": 1.8379
+ },
+ 3,
+ 17,
+ "https://github.com/gamefish"
+][
+ {
+  "Go": 3.9173,
+  "Python": 5.0568,
+  "Java": 4.8336,
+  "CoffeeScript": 1.8379,
+  "JavaScript": 5.4755,
+  "Perl": 1.8379,
+  "Ruby": 4.6711,
+  "C#": 2.531,
+  "C++": 4.8824,
+  "CSS": 2.9365,
+  "PHP": 2.531,
+  "Clojure": 2.531,
+  "Objective-C": 4.8824
+ },
+ 7,
+ 69,
+ "https://github.com/dreamfrog"
+][
+ {
+  "C++": 1.8379
+ },
+ 0,
+ 1,
+ "https://github.com/minggo2"
+][
+ {
+  "C++": 3.2242,
+  "HTML": 1.8379,
+  "PHP": 1.8379,
+  "Objective-C": 3.9173,
+  "Python": 2.531,
+  "JavaScript": 4.4769,
+  "Ruby": 2.9365
+ },
+ 14,
+ 177,
+ "https://github.com/zj831007"
+][
+ {
+  "C++": 1.8379,
+  "JavaScript": 3.2242,
+  "Python": 1.8379,
+  "Objective-C": 2.531,
+  "Java": 1.8379
+ },
+ 4,
+ 4,
+ "https://github.com/rohankuruvilla"
+][
+ {
+  "C++": 1.8379,
+  "CSS": 1.8379,
+  "Java": 3.4473,
+  "JavaScript": 4.0351,
+  "Ruby": 5.5268,
+  "Objective-C": 2.9365,
+  "ColdFusion": 1.8379
+ },
+ 1,
+ 14,
+ "https://github.com/NUBIC"
+][
+ {
+  "C++": 1.8379,
+  "CSS": 1.8379,
+  "Java": 2.9365,
+  "Objective-C": 3.7838,
+  "JavaScript": 3.6296,
+  "Ruby": 5.965
+ },
+ 16,
+ 105,
+ "https://github.com/sgonyea"
+][
+ {
+  "C++": 3.6296,
+  "Python": 2.531,
+  "Perl": 2.531
+ },
+ 37,
+ 32,
+ "https://github.com/chapuni"
+][
+ {
+  "Java": 5.2391,
+  "XSLT": 1.8379,
+  "CoffeeScript": 3.9173,
+  "JavaScript": 6.0275,
+  "Python": 5.0568,
+  "Groovy": 1.8379,
+  "Go": 5.7091,
+  "C++": 1.8379,
+  "HTML": 4.5459,
+  "PHP": 1.8379,
+  "Clojure": 3.6296,
+  "Objective-C": 3.4473,
+  "Ruby": 6.5474,
+  "Lua": 2.531,
+  "FreeMarker": 1.8379,
+  "CSS": 4.2358
+ },
+ 149,
+ 36,
+ "https://github.com/heroku"
+][
+ {
+  "Java": 4.7282,
+  "JavaScript": 3.7838,
+  "CSS": 2.9365,
+  "PHP": 1.8379
+ },
+ 50,
+ 148,
+ "https://github.com/rafacm"
+][
+ {
+  "Go": 2.531,
+  "Python": 5.2391,
+  "CSS": 2.531,
+  "PHP": 1.8379,
+  "Objective-C": 2.531,
+  "Perl": 3.7838,
+  "JavaScript": 4.1405
+ },
+ 127,
+ 101,
+ "https://github.com/markpasc"
+][
+ {
+  "Java": 1.8379,
+  "JavaScript": 2.9365
+ },
+ 1,
+ 1,
+ "https://github.com/Fluttershy"
+][
+ {
+  "C++": 3.9173,
+  "Java": 1.8379,
+  "Clojure": 4.6105,
+  "JavaScript": 2.9365,
+  "Lua": 1.8379,
+  "Ruby": 2.9365
+ },
+ 32,
+ 861,
+ "https://github.com/edvorg"
+][
+ {
+  "Java": 2.531,
+  "Ruby": 1.8379
+ },
+ 0,
+ 2,
+ "https://github.com/abarocio80"
+][
+ {
+  "PHP": 2.531
+ },
+ 3,
+ 2,
+ "https://github.com/thorlax402"
+][
+ {
+  "JavaScript": 2.531
+ },
+ 0,
+ 1,
+ "https://github.com/Offsite"
+][
+ {
+  "Go": 1.8379,
+  "Java": 3.2242,
+  "JavaScript": 2.531,
+  "ColdFusion": 1.8379,
+  "Ruby": 3.2242
+ },
+ 11,
+ 12,
+ "https://github.com/naamannewbold"
+][
+ {
+  "Objective-C": 2.531,
+  "JavaScript": 3.6296,
+  "Python": 3.7838,
+  "CSS": 1.8379
+ },
+ 1104,
+ 89,
+ "https://github.com/samuelclay"
+][
+ {
+  "Go": 4.3228,
+  "Java": 4.3228,
+  "PHP": 1.8379,
+  "Clojure": 2.531,
+  "JavaScript": 3.4473,
+  "Python": 1.8379,
+  "Objective-C": 1.8379,
+  "Ruby": 3.9173
+ },
+ 70,
+ 74,
+ "https://github.com/sclasen"
+][
+ {
+  "CoffeeScript": 1.8379,
+  "JavaScript": 4.9734,
+  "Python": 1.8379,
+  "Ruby": 1.8379,
+  "PHP": 1.8379
+ },
+ 40,
+ 302,
+ "https://github.com/chrisjaure"
+][
+ {
+  "Java": 5.096,
+  "JavaScript": 2.531,
+  "CSS": 1.8379,
+  "Ruby": 1.8379
+ },
+ 46,
+ 8,
+ "https://github.com/jsimone"
+][
+ {
+  "JavaScript": 3.2242,
+  "Python": 4.1405,
+  "CSS": 1.8379,
+  "HTML": 2.531
+ },
+ 0,
+ 5,
+ "https://github.com/ES-DOC"
+][
+ {
+  "Go": 4.0351,
+  "Java": 4.6711,
+  "CoffeeScript": 1.8379,
+  "Clojure": 1.8379,
+  "JavaScript": 3.7838,
+  "PHP": 3.2242,
+  "Swift": 2.9365,
+  "Ruby": 4.4769
+ },
+ 122,
+ 84,
+ "https://github.com/ryanbrainard"
+][
+ {
+  "C++": 2.531
+ },
+ 15,
+ 55,
+ "https://github.com/dismay46"
+][
+ {
+  "CoffeeScript": 2.531,
+  "JavaScript": 3.9173
+ },
+ 23,
+ 106,
+ "https://github.com/adammark"
+][
+ {
+  "C++": 3.4473,
+  "CSS": 1.8379,
+  "PHP": 1.8379,
+  "JavaScript": 1.8379,
+  "Python": 2.9365,
+  "Ruby": 1.8379
+ },
+ 10,
+ 127,
+ "https://github.com/pyrovski"
+][
+ {
+  "Java": 3.7838,
+  "JavaScript": 1.8379,
+  "Ruby": 1.8379
+ },
+ 2,
+ 8,
+ "https://github.com/leoamigood"
+][
+ {
+  "Go": 2.531,
+  "Java": 1.8379,
+  "JavaScript": 2.9365,
+  "Python": 1.8379
+ },
+ 42,
+ 37,
+ "https://github.com/fbettag"
+][
+ {
+  "Java": 2.9365,
+  "Python": 1.8379,
+  "Groovy": 1.8379
+ },
+ 0,
+ 1,
+ "https://github.com/podarsmarty"
+][
+ {
+  "Java": 3.6296,
+  "JavaScript": 1.8379,
+  "Python": 2.531
+ },
+ 4,
+ 16,
+ "https://github.com/vcherkassky"
+][
+ {
+  "Python": 3.4473,
+  "Java": 3.2242,
+  "CoffeeScript": 3.6296,
+  "JavaScript": 3.9173,
+  "Puppet": 1.8379,
+  "Ruby": 5.5014,
+  "Go": 4.6105,
+  "C++": 2.9365,
+  "CSS": 2.531,
+  "PHP": 1.8379,
+  "Clojure": 3.6296,
+  "Objective-C": 2.531,
+  "HTML": 1.8379
+ },
+ 167,
+ 75,
+ "https://github.com/lstoll"
+][
+ {
+  "Go": 3.2242,
+  "C++": 1.8379,
+  "Java": 3.4473,
+  "Python": 3.2242,
+  "CSS": 2.9365,
+  "Clojure": 2.531,
+  "CoffeeScript": 1.8379,
+  "JavaScript": 4.0351,
+  "Perl": 1.8379,
+  "Groovy": 2.531,
+  "Ruby": 5.1337
+ },
+ 243,
+ 40,
+ "https://github.com/mbbx6spp"
+]
