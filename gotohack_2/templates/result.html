@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <title>Results</title>
+
+</head>
+<body>
+
+
+    <div class="container">
+
+          <table class="table table-bordered table-hover">
+            <thead>
+                <tr> 
+                    <th class='clickable'>Link</th> 
+                    <th class='clickable'>Languages</th>
+                    <th class='clickable'>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for account in accounts %}
+                <tr> 
+                    <td>{{account.link}}</td>
+                    <td>{{account.laguages}}</td>
+                    <td>{{account.salary}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+
+          </table>
+        </div>
+
+
+</body>
+</html>

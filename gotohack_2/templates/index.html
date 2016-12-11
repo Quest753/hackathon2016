@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <title>ProgTinder</title>
+
+</head>
+
+<body>
+    <div class="container"> 
+        <div class="jumbotron">
+            <form action="/find"  class="form-inline" method='POST' role='form'>
+
+
+                <label for="salary">Max Salary:</label>
+                <input type="text" class="form-control" id="salary" name="salary">
+
+                <label for="language">Language:</label>
+                  <select class="form-control selectpicker " id="language" name="language">             
+                    <option>С++</option>
+                    <option>С#</option>
+                    <option>Python</option>
+                    <option>Javascript</option>
+                  </select>
+
+                <button class="btn  btn-primary " type="submit">Найти</button>
+            </form>
+        </div>
+    </div>
+    
+    
+</body>
+
+</html>
